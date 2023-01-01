@@ -1,0 +1,110 @@
+.img {
+    margin-bottom: 10%;
+}
+
+.img1 {
+    margin-top: 1%;
+    margin-bottom: 1%;
+    align-items:center;
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    font-family: Consolas;
+}
+
+.h {
+    margin-top: 30px;
+    width: 650px;
+    border-top: 10px solid;
+    border-radius: 8px;
+}
+
+.b1 {
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 5px solid;     
+}
+
+.text11 {
+    margin-top: 30px;
+    font-size: 30px;
+    align-items:center;
+    display: flex;
+    justify-content: center;
+    font-family: Consolas;
+}
+
+.text12 {
+    margin-top: 30px;
+    font-size: 30px;
+    align-items:center;
+    display: flex;
+    justify-content: center;
+    font-family: Consolas;
+}
+
+.text13 {
+    margin-top: 30px;
+    font-size: 30px;
+    align-items:center;
+    display: flex;
+    justify-content: center;
+    font-family: Consolas;
+}
+
+.img2 {
+    margin-top: 10%;
+    align-items:center;
+    display: flex;
+    justify-content: center;
+}
+
+.img3 {
+    margin-top: 10%;
+    margin-bottom: 10%;
+    align-items:center;
+    display: flex;
+    justify-content: center;
+}
+
+.img4 {
+    margin-top: 10%;
+    align-items:center;
+    display: flex;
+    justify-content: center;
+}
+
+.img5 {
+    margin-top: 10%;
+    align-items:center;
+    display: flex;
+    justify-content: center;
+}
+
+.img6 {
+    margin-top: 10%;
+    align-items:center;
+    display: flex;
+    justify-content: center;
+}
+
+.img7 {
+    margin-top: 10%;
+    margin-bottom: 10%;
+    align-items:center;
+    display: flex;
+    justify-content: center;
+}
+
+.img8 {
+    margin-top: 10%;
+    align-items:center;
+    display: flex;
+    justify-content: center;
+}
